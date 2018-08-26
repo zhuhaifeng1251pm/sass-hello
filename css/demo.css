@@ -1,0 +1,74 @@
+@import url("../css/body.min.css");
+.a1 {
+  background-image: url("images/1.png");
+}
+
+.a2 {
+  background-image: url("images/2.png");
+}
+
+.a3 {
+  background-image: url("images/3.png");
+}
+
+.a4 {
+  background-image: url("images/4.png");
+}
+
+.a5 {
+  background-image: url("images/5.png");
+}
+
+.b1 {
+  background-image: url("images/1.png");
+}
+
+.b2 {
+  background-image: url("images/2.png");
+}
+
+.b3 {
+  background-image: url("images/3.png");
+}
+
+.b4 {
+  background-image: url("images/4.png");
+}
+
+.c1 {
+  background-image: url("images/1.png");
+}
+
+.c2 {
+  background-image: url("images/2.png");
+}
+
+.c3 {
+  background-image: url("images/3.png");
+}
+
+.c4 {
+  background-image: url("images/4.png");
+}
+
+.c5 {
+  background-image: url("images/5.png");
+}
+
+.box {
+  color: red;
+  background-color: #000;
+  margin: 5px;
+}
+
+.box h3, .box h4 {
+  margin-top: 110px;
+  color: blue;
+  font-size: 80px;
+}
+
+.box h4 {
+  color: #1992ff;
+  font-size: 100px;
+  color: red;
+}
